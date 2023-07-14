@@ -1,6 +1,6 @@
 trigger:
 - '*'
-#someinfo
+#someinfoaboutthis
 pool:
   vmImage: ubuntu-latest
 
